@@ -16,6 +16,9 @@ Here is an example of the car detection and red car identification:
 
 ![Detected Cars](output.png)
 
+Generated Caption for the image above: Generated Caption: several different colored cars parked in a parking lot with trees in the background and blue, red, green, orange, and black cars in the middle of the middle of a circle on a sunny dayNumber of cars found 10 of which 5 are red.
+
+
 
 ## Features
 
@@ -27,7 +30,7 @@ Here is an example of the car detection and red car identification:
 
 Before running the project, ensure that the following prerequisites are installed:
 
-- Python 3.8 or higher: This project is built using Python 3.8. You can download Python from [here](https://www.python.org/downloads/).
+- Python 3.11 or higher: This project is built using Python 3.11. You can download Python from [here](https://www.python.org/downloads/).
 - Poetry: A dependency management and packaging tool for Python. It helps in managing project dependencies efficiently. [Install Poetry](https://python-poetry.org/docs/#installation).
 
 Additionally, you will need the following Python libraries, which will be installed automatically by Poetry:
