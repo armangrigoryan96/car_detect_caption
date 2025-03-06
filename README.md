@@ -10,6 +10,13 @@ This project demonstrates the use of computer vision techniques to detect cars i
 
 This project is built in Python and leverages several powerful libraries to achieve the tasks in a smooth and efficient manner. 
 
+
+
+Here is an example of the car detection and red car identification:
+
+![Detected Cars](output.png)
+
+
 ## Features
 
 - Car Detection: Uses YOLOv8 pre-trained model to detect cars in images.

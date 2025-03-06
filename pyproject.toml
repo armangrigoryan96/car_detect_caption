@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "car-detection"
+version = "0.1.0"
+description = "Car detection, red car identification, and image captioning using YOLOv8 and BLIP"
+authors = ["Arman Grigoryan arman.grigoryan.96@mail.ru"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+torch = "^2.0.0"
+transformers = "^4.30.0"
+opencv-python = "^4.8.0.76"
+matplotlib = "^3.7.1"
+ultralytics = "^8.0.0"
+pillow = "^9.4.0"
+numpy = "^1.23.0"
+argparse = "^1.4.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
