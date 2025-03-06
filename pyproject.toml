@@ -7,11 +7,11 @@ license = "MIT"
 
 [tool.poetry.dependencies]
 python = "^3.8"
-torch = "^2.0.0"
-transformers = "^4.30.0"
-opencv-python = "^4.8.0.76"
+torch = "^2.5.1"
+transformers = "^4.48.3"
+opencv-python = "^4.11.0.86"
 matplotlib = "^3.7.1"
-ultralytics = "^8.0.0"
+ultralytics = "^8.3.84"
 pillow = "^9.4.0"
 numpy = "^1.23.0"
 argparse = "^1.4.0"
@@ -19,4 +19,3 @@ argparse = "^1.4.0"
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
-
