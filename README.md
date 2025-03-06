@@ -49,8 +49,8 @@ To install the required dependencies, follow these steps:
     
 2. Install Poetry if you don’t already have it:
     
-    curl -sSL https://install.python-poetry.org | python3 -
-    
+   pip install poetry    
+
 3. Install the project dependencies using Poetry:
     
     poetry install

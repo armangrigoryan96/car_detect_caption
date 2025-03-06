@@ -6,7 +6,7 @@ authors = ["Arman Grigoryan arman.grigoryan.96@mail.ru"]
 license = "MIT"
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^ 3.11.11"
 torch = "^2.5.1"
 transformers = "^4.48.3"
 opencv-python = "^4.11.0.86"
