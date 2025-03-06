@@ -16,7 +16,7 @@ Here is an example of the car detection and red car identification:
 
 ![Detected Cars](output.png)
 
-Generated Caption: Generated Caption: several different colored cars parked in a parking lot with trees in the background and blue, red, green, orange, and black cars in the middle of the middle of a circle on a sunny dayNumber of cars found 10 of which 5 are red.
+Generated Caption: several different colored cars parked in a parking lot with trees in the background and blue, red, green, orange, and black cars in the middle of the middle of a circle on a sunny dayNumber of cars found 10 of which 5 are red.
 
 
 
