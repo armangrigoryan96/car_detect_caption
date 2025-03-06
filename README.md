@@ -45,8 +45,7 @@ To install the required dependencies, follow these steps:
 
 1. Clone the repository or download the source code:
     
-    git clone https://github.com/yourusername/car-detection
-    cd car-detection
+    git clone https://github.com/armangrigoryan96/car_detect_caption; cd car-detection
     
 2. Install Poetry if you don’t already have it:
     
